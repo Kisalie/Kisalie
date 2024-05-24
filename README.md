@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kisalie
 - 👀 I’m interested in how AI is transforming the world
-- 🌱 I’m currently learning Next.js and Typescript
 - 📫 How to reach me kisalierana@gmail.com
 
 <!---
