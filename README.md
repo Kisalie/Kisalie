@@ -2,10 +2,16 @@
 - 👀 I’m interested in how AI is transforming the world
 - 📫 How to reach me kisalierana@gmail.com
 
-✨Currently working on:✨
+🚀 Currently learning 🚀:
+
+- FastAPI
+- Supabase
+
+✨Currently working on ✨:
 
 - An AI bedtime story generator using Next.js and Typescript with Firebase.
   https://www.starlightstories.io/
+
   
 
 
